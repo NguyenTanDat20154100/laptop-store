@@ -8,7 +8,7 @@ spring:
         globally_quoted_identifiers: true
         dialect: org.hibernate.dialect.MySQLDialect
   datasource:
-    url: jdbc:mysql://viaduct.proxy.rlwy.net/tenlagicungduoc
+    url: jdbc:mysql://root:gmuVZNQtYBkofncxAfJOpwYmLyUjQZXq@viaduct.proxy.rlwy.net:50077/railway
     username: root
     password: gmuVZNQtYBkofncxAfJOpwYmLyUjQZXq
     driver-class-name: com.mysql.cj.jdbc.Driver
